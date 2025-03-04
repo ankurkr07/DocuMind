@@ -1,4 +1,4 @@
-# 🧠 DocuMind - MultiPDF Chatbot  
+# DocuMind - MultiPDF Chatbot  
 A chatbot that answers questions from your PDFs using AI-powered natural language processing.  
 
 ## 🚀 Introduction  
