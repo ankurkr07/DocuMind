@@ -26,17 +26,17 @@ Follow these steps to set up and run **DocuMind**:
 git clone https://github.com/ankurkr07/DocuMind.git
 cd DocuMind
 ```
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3️⃣ Add API Key
+### 3️⃣ Add API Key
 Create a .env file in the project directory and add your OpenAI API Key:
 ```bash
 OPENAI_API_KEY=your_secret_api_key
 ```
-▶️ Usage
+### ▶️ Usage
 Start the chatbot using Streamlit:
 ```bash
 streamlit run app.py
